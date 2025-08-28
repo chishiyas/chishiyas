@@ -7,4 +7,6 @@
 ![](https://komarev.com/ghpvc/?username=chishiyas&color=000000&label=fans
 )
 
-![d](https://i.pinimg.com/originals/76/1f/e6/761fe6eb2390b12129b34d48e7d2b4a9.gif)
+  </div>
+<p align="center"><img src="https://i.pinimg.com/originals/76/1f/e6/761fe6eb2390b12129b34d48e7d2b4a9.gif">
+<br> 
