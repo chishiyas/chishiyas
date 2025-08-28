@@ -4,5 +4,5 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=chishiyas&color=000000&label=freaks
+![](https://komarev.com/ghpvc/?username=chishiyas&color=000000&label=fans
 )
