@@ -1,6 +1,4 @@
-<div align="center">
-  
- [_ATA_](https://nijiro.atabook.org) 
+<div align="center"> 
 
 <div align="center">
 
@@ -8,5 +6,7 @@
 )
 
   </div>
-<p align="center"><img src="https://i.pinimg.com/originals/76/1f/e6/761fe6eb2390b12129b34d48e7d2b4a9.gif">
+<p align="center"><img src="https://i.pinimg.com/originals/34/11/06/341106a40f80973648343bf90a6cde9e.gif">
 <br> 
+  
+[if anything, sign](https://nijiro.atabook.org)
